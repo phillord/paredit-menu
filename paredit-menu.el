@@ -6,6 +6,7 @@
 ;; Maintainer: Phillip Lord <phillip.lord@newcastle.ac.uk>
 ;; Keywords: paredit
 ;; Version: 1.0
+;; Package-Requires: ((paredit "25"))
 
 ;; COPYRIGHT NOTICE
 ;;
